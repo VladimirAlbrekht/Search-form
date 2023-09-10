@@ -14,4 +14,4 @@
 * JS
 
 
-[screenshot фильтра поиска](/view.png)
+![screenshot фильтра поиска](/view.png)
